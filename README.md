@@ -1,0 +1,1 @@
+This is a template of initial setup of a mern web-app with jwt authentication, login, registr, centralised user data using useContext and using it across the website and protected routes using userProtectedWrapper.
